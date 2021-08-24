@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "${#/path/to/directory/*/[@]}"  
+ ls /etc | wc -l 
